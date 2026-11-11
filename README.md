@@ -48,7 +48,7 @@ A full-stack Expense Tracker web application that helps users manage their perso
 
 ### 🖥️ Clone the Repository
 ```bash
-git clone https://github.com/khalil-deve/expense-tracker.git
+git clone https://github.com/Muh-Khalil/expense-tracker.git
 cd expense-tracker
 ````
 
@@ -145,7 +145,7 @@ Pull requests are welcome. For major changes, please open an issue first.
 ## 📫 Contact
 
 Made with ❤️ by **Muhammad Khalil**
-Connect on [LinkedIn](https://www.linkedin.com/in/khalil-dev) or [GitHub](https://github.com/khalil-dev)
+Connect on [LinkedIn](https://www.linkedin.com/in/khalil-dev) or [GitHub](https://github.com/Muh-Khalil)
 
 
 
